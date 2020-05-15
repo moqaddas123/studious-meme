@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13862" started-at="2020-05-09T02:03:02 CDT" finished-at="2020-05-09T02:03:16 CDT">
+  <suite name="Default suite" duration-ms="7280" started-at="2020-05-14T22:26:19 EDT" finished-at="2020-05-14T22:26:27 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13862" started-at="2020-05-09T02:03:02 CDT" finished-at="2020-05-09T02:03:16 CDT">
-      <class name="Assignment5.assignment5prac">
-        <test-method status="PASS" signature="SetProperties()[pri:0, instance:Assignment5.assignment5prac@2d127a61]" name="SetProperties" is-config="true" duration-ms="8685" started-at="2020-05-09T02:03:02 CDT" finished-at="2020-05-09T02:03:11 CDT">
+    <test name="Default test" duration-ms="7280" started-at="2020-05-14T22:26:19 EDT" finished-at="2020-05-14T22:26:27 EDT">
+      <class name="assignment1.Login">
+        <test-method status="PASS" signature="login()[pri:0, instance:assignment1.Login@72cde7cc]" name="login" duration-ms="7193" started-at="2020-05-14T22:26:19 EDT" finished-at="2020-05-14T22:26:27 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SetProperties -->
-        <test-method status="PASS" signature="loginTest()[pri:1, instance:Assignment5.assignment5prac@2d127a61]" name="loginTest" duration-ms="5089" started-at="2020-05-09T02:03:11 CDT" finished-at="2020-05-09T02:03:16 CDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginTest -->
-      </class> <!-- Assignment5.assignment5prac -->
+        </test-method> <!-- login -->
+      </class> <!-- assignment1.Login -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
