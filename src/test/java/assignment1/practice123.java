@@ -14,7 +14,7 @@ public class practice123 {
 @Before
 	public void LaunchBrowser() {	
 	
-		System.setProperty("webdriver.chrome.driver","./driver/chromedriver 2");
+		System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
 		driver= new ChromeDriver();
 		driver.manage().window().maximize();				
 		
