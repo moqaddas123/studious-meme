@@ -2,16 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="54629" started-at="2020-05-14T23:47:57 EDT" finished-at="2020-05-14T23:48:51 EDT">
+  <suite name="Default suite" duration-ms="30882" started-at="2020-05-16T22:18:09 EDT" finished-at="2020-05-16T22:18:40 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="54629" started-at="2020-05-14T23:47:57 EDT" finished-at="2020-05-14T23:48:51 EDT">
-      <class name="practice.PracticeHandle">
-        <test-method status="PASS" signature="practiceHandle()[pri:0, instance:practice.PracticeHandle@696da30b]" name="practiceHandle" duration-ms="54556" started-at="2020-05-14T23:47:57 EDT" finished-at="2020-05-14T23:48:51 EDT">
+    <test name="Default test" duration-ms="30882" started-at="2020-05-16T22:18:09 EDT" finished-at="2020-05-16T22:18:40 EDT">
+      <class name="Assignment5Sush">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Assignment5Sush@2dde1bff]" name="launchBrowser" is-config="true" duration-ms="12277" started-at="2020-05-16T22:18:09 EDT" finished-at="2020-05-16T22:18:21 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- practiceHandle -->
-      </class> <!-- practice.PracticeHandle -->
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="addAccount()[pri:0, instance:Assignment5Sush@2dde1bff]" name="addAccount" duration-ms="12381" started-at="2020-05-16T22:18:21 EDT" finished-at="2020-05-16T22:18:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAccount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Assignment5Sush@2dde1bff]" name="tearDown" is-config="true" duration-ms="6156" started-at="2020-05-16T22:18:34 EDT" finished-at="2020-05-16T22:18:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignment5Sush -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
